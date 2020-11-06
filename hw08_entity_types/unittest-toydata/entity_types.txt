@@ -1,0 +1,5 @@
+on the	location
+cat mat	location item
+mat cat	animal
+cat	animal
+rabbit	animal

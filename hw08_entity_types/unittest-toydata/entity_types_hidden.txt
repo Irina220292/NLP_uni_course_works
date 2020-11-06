@@ -1,0 +1,4 @@
+on the	location
+munich germany	location
+french fries	food
+rabbit	animal
